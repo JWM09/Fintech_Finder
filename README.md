@@ -34,7 +34,7 @@ I was able to calculate the required ether for my project:
   
 I executed the transaction as shown on my account page (note there were multiple tranactions out of my account due to practice), and can display that it executed:
   
-  ![Validated](Images/pychainBlockInspector.png)  
+  ![Validated](Images/validated_transaction.png)  
     
   ![Ether Sent](Images/fintech_transaction.png)  
     
